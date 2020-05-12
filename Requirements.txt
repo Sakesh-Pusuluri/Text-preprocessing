@@ -1,0 +1,6 @@
+# Please download spacy and pyspellchecker
+# Use below pip commands to install spacy and pyspellchecker
+
+!pip install spacy
+
+!pip install pyspellchecker
