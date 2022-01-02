@@ -4,7 +4,7 @@ import re
 import nltk
 import spacy
 import string
-nltk.download('stopwords') # download stopwords from nltk
+nltk.download('stopwords') # download stopwords from nltk library
 from nltk.corpus import stopwords
 from string import digits
 from bs4 import BeautifulSoup
